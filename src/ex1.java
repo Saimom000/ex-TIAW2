@@ -1,6 +1,5 @@
 import java.util.*;
 class ex1 {
-    //Usei parte do ex LAB01Q01Aquecimento feito pelo professor, pois não sei mecher muito bem com java
      public static Scanner sc = new Scanner(System.in);
   
      public static int somar(int[] array){
